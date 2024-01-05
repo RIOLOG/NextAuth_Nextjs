@@ -6,7 +6,9 @@ Certainly! A visually appealing and descriptive README.md can greatly enhance th
 
 ## Introduction
 
-This Next.js application combines the power of NextAuth for authentication and MongoDB for user verification, providing a robust and secure foundation for your web projects. Seamlessly sign in users and ensure their identity with the reliability of MongoDB.
+This Next.js application combines the power of NextAuth for authentication and MongoDB for user verification,
+providing a robust and secure foundation for your web projects. Seamlessly sign in users and
+ensure their identity with the reliability of MongoDB.
 
 ## Features
 
