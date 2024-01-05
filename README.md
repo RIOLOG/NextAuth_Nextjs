@@ -29,7 +29,7 @@ ensure their identity with the reliability of MongoDB.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https:https://github.com/RIOLOG/NextAuth_Nextjs.git
    ```
 
 2. **Install Dependencies:**
@@ -70,6 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Happy Coding! 🚀**
-```
 
-Make sure to replace "your-username," "your-repo," "link-to-your-logo.png," "link-to-screenshot-1.png," and "link-to-screenshot-2.png" with your GitHub details, logo URL, and relevant image links. Feel free to add more sections or customize it further based on your project's specifics.
